@@ -24,6 +24,46 @@ public class Main {
                 // DO ZROBIENIA, POTEM TO ^ USUNĄĆ
                 break;
 
+            case 3:
+                System.out.println("ZADANIE 3");
+                System.out.println("Treść: Znajdź dla danej liczby najbliższą jej liczbę palindromiczną (czytana od początku jest taka sama jak czytana od końca). Dla liczby 1015 najbliższą liczbą palindromiczną jest liczba 1001.");
+
+                System.out.println("Tego jeszcze niestety nie ma :(");
+                //DO ZROBIENIA, POTEM TO ^ USUNĄĆ
+                break;
+
+            case 4:
+                System.out.println("ZADANIE 4");
+                System.out.println("Treść: Wczytaj słowo z klawiatury i zaszyfruj je szyfrem Cezara z kluczem 3. Szyfr Cezara polega na przesunięciu każdej litery alfabetu w prawo o klucz.");
+
+                System.out.println("Tego jeszcze niestety nie ma :(");
+                //DO ZROBIENIA, POTEM TO ^ USUNĄĆ
+                break;
+
+            case 5:
+                System.out.println("ZADANIE 5");
+                System.out.println("Treść: Wczytaj dwa słowa i sprawdź, czy są one dla siebie anagramami, czyli składają się z tych samych liter w takiej samej liczbie.");
+
+                System.out.println("Tego jeszcze niestety nie ma :(");
+                //DO ZROBIENIA, POTEM TO ^ USUNĄĆ
+                break;
+
+            case 6:
+                System.out.println("ZADANIE 6");
+                System.out.println("Treść: Napisz program obliczający sumę silni cyfr z liczby.");
+
+                System.out.println("Tego jeszcze niestety nie ma :(");
+                //DO ZROBIENIA, POTEM TO ^ USUNĄĆ
+                break;
+
+            case 7:
+                System.out.println("ZADANIE 7");
+                System.out.println("Treść: Sprawdź, czy liczba jest liczbą pierwszą, czyli ma dokładnie dwa dzielniki: 1 i samą siebie.");
+
+                System.out.println("Tego jeszcze niestety nie ma :(");
+                //DO ZROBIENIA, POTEM TO ^ USUNĄĆ
+                break;
+
             case 8:
                 System.out.println("ZADANIE 8");
                 System.out.println("Treść: Wygeneruj hasło losowe. Długość hasła powinna wynosić 20 znaków, a ponadto powinno zawierać liczby, wielkie i małe litery oraz znaki specjalne.");
